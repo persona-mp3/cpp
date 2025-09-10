@@ -1,4 +1,4 @@
-/*
+/* Programmiz Quiz
  * If num is divisible by 5, return "Yes", otherwiser "No"
  * https://app.programiz.pro/community-challenges/preview/cpp-is-number-divisible-by-five/info
  * */
